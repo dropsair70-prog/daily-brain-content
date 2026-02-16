@@ -1,115 +1,26 @@
 {
   "version": 1,
-  "facts": [
-    {
-      "levels": {
-        "5-6": {
-          "fact": "Apples are a type of fruit that grow on trees.",
-          "question": "What type of plant do apples grow on?",
-          "options": ["Bushes", "Trees", "Vines", "Grass"],
-          "answerIndex": 1
-        },
-        "7-9": {
-          "fact": "The Amazon rainforest is the largest tropical rainforest in the world.",
-          "question": "Which rainforest is the largest in the world?",
-          "options": ["Congo", "Amazon", "Daintree", "Sundarbans"],
-          "answerIndex": 1
-        },
-        "10-12": {
-          "fact": "Water boils at 100°C (212°F) at sea level.",
-          "question": "At what temperature does water boil at sea level?",
-          "options": ["90°C", "100°C", "120°C", "212°C"],
-          "answerIndex": 1
-        }
-      }
-    },
-    {
-      "levels": {
-        "5-6": {
-          "fact": "Dogs are animals that often live with humans as pets.",
-          "question": "What kind of animal is often kept as a pet?",
-          "options": ["Cats", "Dogs", "Birds", "Fish"],
-          "answerIndex": 1
-        },
-        "7-9": {
-          "fact": "The Earth orbits around the Sun once every 365 days.",
-          "question": "How long does it take the Earth to orbit the Sun?",
-          "options": ["24 hours", "365 days", "30 days", "12 months"],
-          "answerIndex": 1
-        },
-        "10-12": {
-          "fact": "Lightning is caused by the buildup of static electricity in clouds.",
-          "question": "What causes lightning?",
-          "options": ["Wind", "Earthquakes", "Static electricity", "Rain"],
-          "answerIndex": 2
-        }
-      }
-    },
-    {
-      "levels": {
-        "5-6": {
-          "fact": "Bananas are yellow when they are ripe.",
-          "question": "What color is a ripe banana?",
-          "options": ["Green", "Yellow", "Red", "Blue"],
-          "answerIndex": 1
-        },
-        "7-9": {
-          "fact": "Sharks are fish that have been on Earth for over 400 million years.",
-          "question": "How long have sharks existed on Earth?",
-          "options": ["100 million years", "400 million years", "1 billion years", "50 million years"],
-          "answerIndex": 1
-        },
-        "10-12": {
-          "fact": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
-          "question": "What is the speed of light in a vacuum?",
-          "options": ["300,000 km/s", "150,000 km/s", "299,792 km/s", "1,000,000 km/s"],
-          "answerIndex": 2
-        }
-      }
-    },
-    {
-      "levels": {
-        "5-6": {
-          "fact": "Butterflies start as caterpillars before becoming butterflies.",
-          "question": "What do butterflies start as?",
-          "options": ["Caterpillars", "Eggs", "Bees", "Leaves"],
-          "answerIndex": 0
-        },
-        "7-9": {
-          "fact": "Mount Everest is the tallest mountain above sea level.",
-          "question": "Which mountain is the tallest above sea level?",
-          "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
-          "answerIndex": 2
-        },
-        "10-12": {
-          "fact": "The human heart has four chambers: two atria and two ventricles.",
-          "question": "How many chambers does the human heart have?",
-          "options": ["2", "3", "4", "5"],
-          "answerIndex": 2
-        }
-      }
-    },
-    {
-      "levels": {
-        "5-6": {
-          "fact": "Fish live in water and have gills to breathe.",
-          "question": "Where do fish live?",
-          "options": ["Water", "Trees", "Sky", "Land"],
-          "answerIndex": 0
-        },
-        "7-9": {
-          "fact": "The Moon orbits around the Earth approximately every 27 days.",
-          "question": "How long does it take the Moon to orbit the Earth?",
-          "options": ["7 days", "27 days", "365 days", "30 days"],
-          "answerIndex": 1
-        },
-        "10-12": {
-          "fact": "Photosynthesis is the process plants use to turn sunlight into energy.",
-          "question": "What process do plants use to turn sunlight into energy?",
-          "options": ["Respiration", "Digestion", "Photosynthesis", "Evaporation"],
-          "answerIndex": 2
-        }
-      }
-    }
-  ]
+  "facts": {
+    "5-6": [
+      {"fact": "Apples grow on trees.", "question": "Where do apples grow?", "options":["Tree","Bush","Vine","Grass"], "answerIndex":0},
+      {"fact": "Dogs are common pets.", "question": "What animal is often a pet?", "options":["Dog","Cat","Horse","Bird"], "answerIndex":0},
+      {"fact": "Bananas are yellow when ripe.", "question": "What color is a ripe banana?", "options":["Yellow","Green","Red","Blue"], "answerIndex":0},
+      {"fact": "Butterflies start as caterpillars.", "question": "What do butterflies start as?", "options":["Caterpillar","Egg","Leaf","Bee"], "answerIndex":0},
+      {"fact": "Fish live in water.", "question": "Where do fish live?", "options":["Water","Land","Sky","Trees"], "answerIndex":0}
+    ],
+    "7-9": [
+      {"fact": "The Amazon is the largest rainforest.", "question": "Which is the largest rainforest?", "options":["Congo","Amazon","Daintree","Sundarbans"], "answerIndex":1},
+      {"fact": "Earth orbits the Sun in 365 days.", "question": "How long to orbit the Sun?", "options":["24 hours","365 days","30 days","12 months"], "answerIndex":1},
+      {"fact": "Sharks have existed for over 400 million years.", "question": "How long have sharks existed?", "options":["100 million","400 million","1 billion","50 million"], "answerIndex":1},
+      {"fact": "Mount Everest is the tallest mountain.", "question": "Tallest mountain?", "options":["K2","Everest","Kangchenjunga","Lhotse"], "answerIndex":1},
+      {"fact": "The Moon orbits Earth every 27 days.", "question": "How long does Moon orbit Earth?", "options":["7","27","365","30"], "answerIndex":1}
+    ],
+    "10-12": [
+      {"fact": "Water boils at 100°C.", "question": "Boiling point of water?", "options":["90°C","100°C","120°C","212°C"], "answerIndex":1},
+      {"fact": "Lightning is caused by static electricity.", "question": "What causes lightning?", "options":["Wind","Earthquake","Static electricity","Rain"], "answerIndex":2},
+      {"fact": "Speed of light is ~299,792 km/s.", "question": "Speed of light?", "options":["300,000 km/s","150,000 km/s","299,792 km/s","1,000,000 km/s"], "answerIndex":2},
+      {"fact": "Human heart has 4 chambers.", "question": "How many chambers in heart?", "options":["2","3","4","5"], "answerIndex":2},
+      {"fact": "Photosynthesis turns sunlight into energy.", "question": "What process converts sunlight?", "options":["Respiration","Digestion","Photosynthesis","Evaporation"], "answerIndex":2}
+    ]
+  }
 }
