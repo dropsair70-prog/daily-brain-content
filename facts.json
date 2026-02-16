@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "facts": [
+    {
+      "id": 1,
+      "category": "Animals",
+      "levels": {
+        "5-6": {
+          "fact": "A giraffe has a very long neck.",
+          "question": "Which animal has a very long neck?",
+          "options": ["Dog", "Giraffe", "Fish"],
+          "answerIndex": 1
+        },
+        "7-9": {
+          "fact": "A giraffe’s neck can grow over 6 feet long.",
+          "question": "How long can a giraffe's neck grow?",
+          "options": ["2 feet", "6 feet", "12 feet"],
+          "answerIndex": 1
+        },
+        "10-12": {
+          "fact": "Giraffes have seven neck vertebrae, the same number as humans.",
+          "question": "How many neck vertebrae do giraffes have?",
+          "options": ["5", "7", "12"],
+          "answerIndex": 1
+        }
+      }
+    }
+  ]
+}
