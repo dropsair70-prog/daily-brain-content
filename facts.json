@@ -2,26 +2,112 @@
   "version": 1,
   "facts": [
     {
-      "id": 1,
-      "category": "Animals",
       "levels": {
         "5-6": {
-          "fact": "A giraffe has a very long neck.",
-          "question": "Which animal has a very long neck?",
-          "options": ["Dog", "Giraffe", "Fish"],
+          "fact": "Apples are a type of fruit that grow on trees.",
+          "question": "What type of plant do apples grow on?",
+          "options": ["Bushes", "Trees", "Vines", "Grass"],
           "answerIndex": 1
         },
         "7-9": {
-          "fact": "A giraffe’s neck can grow over 6 feet long.",
-          "question": "How long can a giraffe's neck grow?",
-          "options": ["2 feet", "6 feet", "12 feet"],
+          "fact": "The Amazon rainforest is the largest tropical rainforest in the world.",
+          "question": "Which rainforest is the largest in the world?",
+          "options": ["Congo", "Amazon", "Daintree", "Sundarbans"],
           "answerIndex": 1
         },
         "10-12": {
-          "fact": "Giraffes have seven neck vertebrae, the same number as humans.",
-          "question": "How many neck vertebrae do giraffes have?",
-          "options": ["5", "7", "12"],
+          "fact": "Water boils at 100°C (212°F) at sea level.",
+          "question": "At what temperature does water boil at sea level?",
+          "options": ["90°C", "100°C", "120°C", "212°C"],
           "answerIndex": 1
+        }
+      }
+    },
+    {
+      "levels": {
+        "5-6": {
+          "fact": "Dogs are animals that often live with humans as pets.",
+          "question": "What kind of animal is often kept as a pet?",
+          "options": ["Cats", "Dogs", "Birds", "Fish"],
+          "answerIndex": 1
+        },
+        "7-9": {
+          "fact": "The Earth orbits around the Sun once every 365 days.",
+          "question": "How long does it take the Earth to orbit the Sun?",
+          "options": ["24 hours", "365 days", "30 days", "12 months"],
+          "answerIndex": 1
+        },
+        "10-12": {
+          "fact": "Lightning is caused by the buildup of static electricity in clouds.",
+          "question": "What causes lightning?",
+          "options": ["Wind", "Earthquakes", "Static electricity", "Rain"],
+          "answerIndex": 2
+        }
+      }
+    },
+    {
+      "levels": {
+        "5-6": {
+          "fact": "Bananas are yellow when they are ripe.",
+          "question": "What color is a ripe banana?",
+          "options": ["Green", "Yellow", "Red", "Blue"],
+          "answerIndex": 1
+        },
+        "7-9": {
+          "fact": "Sharks are fish that have been on Earth for over 400 million years.",
+          "question": "How long have sharks existed on Earth?",
+          "options": ["100 million years", "400 million years", "1 billion years", "50 million years"],
+          "answerIndex": 1
+        },
+        "10-12": {
+          "fact": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+          "question": "What is the speed of light in a vacuum?",
+          "options": ["300,000 km/s", "150,000 km/s", "299,792 km/s", "1,000,000 km/s"],
+          "answerIndex": 2
+        }
+      }
+    },
+    {
+      "levels": {
+        "5-6": {
+          "fact": "Butterflies start as caterpillars before becoming butterflies.",
+          "question": "What do butterflies start as?",
+          "options": ["Caterpillars", "Eggs", "Bees", "Leaves"],
+          "answerIndex": 0
+        },
+        "7-9": {
+          "fact": "Mount Everest is the tallest mountain above sea level.",
+          "question": "Which mountain is the tallest above sea level?",
+          "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"],
+          "answerIndex": 2
+        },
+        "10-12": {
+          "fact": "The human heart has four chambers: two atria and two ventricles.",
+          "question": "How many chambers does the human heart have?",
+          "options": ["2", "3", "4", "5"],
+          "answerIndex": 2
+        }
+      }
+    },
+    {
+      "levels": {
+        "5-6": {
+          "fact": "Fish live in water and have gills to breathe.",
+          "question": "Where do fish live?",
+          "options": ["Water", "Trees", "Sky", "Land"],
+          "answerIndex": 0
+        },
+        "7-9": {
+          "fact": "The Moon orbits around the Earth approximately every 27 days.",
+          "question": "How long does it take the Moon to orbit the Earth?",
+          "options": ["7 days", "27 days", "365 days", "30 days"],
+          "answerIndex": 1
+        },
+        "10-12": {
+          "fact": "Photosynthesis is the process plants use to turn sunlight into energy.",
+          "question": "What process do plants use to turn sunlight into energy?",
+          "options": ["Respiration", "Digestion", "Photosynthesis", "Evaporation"],
+          "answerIndex": 2
         }
       }
     }
