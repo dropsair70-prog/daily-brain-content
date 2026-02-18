@@ -7,10 +7,10 @@
       "answer": "A star"
     },
     {
-      "fact": "Dogs bark loudly.",
-      "question": "What sound does a dog make?",
-      "options": ["Meow", "Bark", "Roar"],
-      "answer": "Bark"
+      "fact": "Cats say meow.",
+      "question": "What sound does a cat make?",
+      "options": ["Bark", "Meow", "Roar"],
+      "answer": "Meow"
     }
   ],
 
@@ -20,39 +20,22 @@
       "question": "How long does Earth take to orbit the Sun?",
       "options": ["1 day", "1 year", "1 month"],
       "answer": "1 year"
-    },
-    {
-      "fact": "Water freezes at 0°C.",
-      "question": "At what temperature does water freeze?",
-      "options": ["0°C", "50°C", "100°C"],
-      "answer": "0°C"
     }
   ],
 
   "age_10_12": [
     {
-      "fact": "Gravity is a force that attracts objects toward Earth.",
-      "question": "What force pulls objects toward Earth?",
-      "options": ["Wind", "Magnetism", "Gravity"],
+      "fact": "Gravity pulls objects toward Earth.",
+      "question": "What force pulls objects down?",
+      "options": ["Wind", "Gravity", "Light"],
       "answer": "Gravity"
-    },
-    {
-      "fact": "The human heart has four chambers.",
-      "question": "How many chambers does the human heart have?",
-      "options": ["2", "3", "4"],
-      "answer": "4"
     }
-  ],
-
-  "bonus_facts": [
-    "Octopuses have three hearts.",
-    "Honey never spoils."
   ],
 
   "wheel_rewards": [
     "+5 Points ⭐",
     "+10 Points 💎",
-    "Bonus Fact 🎉",
-    "Super Star Badge 🏆"
+    "Super Star Badge 🏆",
+    "Bonus Fact 🎉"
   ]
 }
