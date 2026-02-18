@@ -1,26 +1,58 @@
 {
-  "version": 1,
-  "facts": {
-    "5-6": [
-      {"fact": "Apples grow on trees.", "question": "Where do apples grow?", "options":["Tree","Bush","Vine","Grass"], "answerIndex":0},
-      {"fact": "Dogs are common pets.", "question": "What animal is often a pet?", "options":["Dog","Cat","Horse","Bird"], "answerIndex":0},
-      {"fact": "Bananas are yellow when ripe.", "question": "What color is a ripe banana?", "options":["Yellow","Green","Red","Blue"], "answerIndex":0},
-      {"fact": "Butterflies start as caterpillars.", "question": "What do butterflies start as?", "options":["Caterpillar","Egg","Leaf","Bee"], "answerIndex":0},
-      {"fact": "Fish live in water.", "question": "Where do fish live?", "options":["Water","Land","Sky","Trees"], "answerIndex":0}
-    ],
-    "7-9": [
-      {"fact": "The Amazon is the largest rainforest.", "question": "Which is the largest rainforest?", "options":["Congo","Amazon","Daintree","Sundarbans"], "answerIndex":1},
-      {"fact": "Earth orbits the Sun in 365 days.", "question": "How long to orbit the Sun?", "options":["24 hours","365 days","30 days","12 months"], "answerIndex":1},
-      {"fact": "Sharks have existed for over 400 million years.", "question": "How long have sharks existed?", "options":["100 million","400 million","1 billion","50 million"], "answerIndex":1},
-      {"fact": "Mount Everest is the tallest mountain.", "question": "Tallest mountain?", "options":["K2","Everest","Kangchenjunga","Lhotse"], "answerIndex":1},
-      {"fact": "The Moon orbits Earth every 27 days.", "question": "How long does Moon orbit Earth?", "options":["7","27","365","30"], "answerIndex":1}
-    ],
-    "10-12": [
-      {"fact": "Water boils at 100°C.", "question": "Boiling point of water?", "options":["90°C","100°C","120°C","212°C"], "answerIndex":1},
-      {"fact": "Lightning is caused by static electricity.", "question": "What causes lightning?", "options":["Wind","Earthquake","Static electricity","Rain"], "answerIndex":2},
-      {"fact": "Speed of light is ~299,792 km/s.", "question": "Speed of light?", "options":["300,000 km/s","150,000 km/s","299,792 km/s","1,000,000 km/s"], "answerIndex":2},
-      {"fact": "Human heart has 4 chambers.", "question": "How many chambers in heart?", "options":["2","3","4","5"], "answerIndex":2},
-      {"fact": "Photosynthesis turns sunlight into energy.", "question": "What process converts sunlight?", "options":["Respiration","Digestion","Photosynthesis","Evaporation"], "answerIndex":2}
-    ]
-  }
+  "age_5_6": [
+    {
+      "fact": "The Sun is a star.",
+      "question": "What is the Sun?",
+      "options": ["A planet", "A star", "A rock"],
+      "answer": "A star"
+    },
+    {
+      "fact": "Fish live in water.",
+      "question": "Where do fish live?",
+      "options": ["In trees", "In water", "In the sky"],
+      "answer": "In water"
+    }
+  ],
+
+  "age_7_9": [
+    {
+      "fact": "The Earth revolves around the Sun.",
+      "question": "What does the Earth revolve around?",
+      "options": ["The Moon", "The Sun", "Mars"],
+      "answer": "The Sun"
+    },
+    {
+      "fact": "Water freezes at 0°C.",
+      "question": "At what temperature does water freeze?",
+      "options": ["0°C", "100°C", "50°C"],
+      "answer": "0°C"
+    }
+  ],
+
+  "age_10_12": [
+    {
+      "fact": "Gravity pulls objects toward Earth.",
+      "question": "What force pulls objects toward Earth?",
+      "options": ["Magnetism", "Gravity", "Wind"],
+      "answer": "Gravity"
+    },
+    {
+      "fact": "The human heart has four chambers.",
+      "question": "How many chambers does the human heart have?",
+      "options": ["2", "3", "4"],
+      "answer": "4"
+    }
+  ],
+
+  "bonus_facts": [
+    "Octopuses have three hearts.",
+    "Bananas are berries."
+  ],
+
+  "wheel_rewards": [
+    "⭐ +5 Points",
+    "🎁 Bonus Fact",
+    "🏆 Badge Earned",
+    "💎 +10 Points"
+  ]
 }
