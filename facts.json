@@ -1,39 +1,39 @@
 {
   "age_5_6": [
     {
-      "fact": "The Sun is a star.",
+      "fact": "The Sun is a big star in the sky.",
       "question": "What is the Sun?",
-      "options": ["A planet", "A star", "A rock"],
+      "options": ["A planet", "A star", "A car"],
       "answer": "A star"
     },
     {
-      "fact": "Fish live in water.",
-      "question": "Where do fish live?",
-      "options": ["In trees", "In water", "In the sky"],
-      "answer": "In water"
+      "fact": "Dogs bark loudly.",
+      "question": "What sound does a dog make?",
+      "options": ["Meow", "Bark", "Roar"],
+      "answer": "Bark"
     }
   ],
 
   "age_7_9": [
     {
-      "fact": "The Earth revolves around the Sun.",
-      "question": "What does the Earth revolve around?",
-      "options": ["The Moon", "The Sun", "Mars"],
-      "answer": "The Sun"
+      "fact": "The Earth orbits the Sun once every year.",
+      "question": "How long does Earth take to orbit the Sun?",
+      "options": ["1 day", "1 year", "1 month"],
+      "answer": "1 year"
     },
     {
       "fact": "Water freezes at 0°C.",
       "question": "At what temperature does water freeze?",
-      "options": ["0°C", "100°C", "50°C"],
+      "options": ["0°C", "50°C", "100°C"],
       "answer": "0°C"
     }
   ],
 
   "age_10_12": [
     {
-      "fact": "Gravity pulls objects toward Earth.",
+      "fact": "Gravity is a force that attracts objects toward Earth.",
       "question": "What force pulls objects toward Earth?",
-      "options": ["Magnetism", "Gravity", "Wind"],
+      "options": ["Wind", "Magnetism", "Gravity"],
       "answer": "Gravity"
     },
     {
@@ -46,13 +46,13 @@
 
   "bonus_facts": [
     "Octopuses have three hearts.",
-    "Bananas are berries."
+    "Honey never spoils."
   ],
 
   "wheel_rewards": [
-    "⭐ +5 Points",
-    "🎁 Bonus Fact",
-    "🏆 Badge Earned",
-    "💎 +10 Points"
+    "+5 Points ⭐",
+    "+10 Points 💎",
+    "Bonus Fact 🎉",
+    "Super Star Badge 🏆"
   ]
 }
