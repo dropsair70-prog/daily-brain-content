@@ -1,41 +1,560 @@
 {
   "age_5_6": [
     {
-      "fact": "The Sun is a big star in the sky.",
+      "fact": "The Sun is a star that gives us light and heat.",
       "question": "What is the Sun?",
-      "options": ["A planet", "A star", "A car"],
+      "options": ["A planet", "A star", "A rock"],
       "answer": "A star"
     },
     {
-      "fact": "Cats say meow.",
-      "question": "What sound does a cat make?",
-      "options": ["Bark", "Meow", "Roar"],
-      "answer": "Meow"
+      "fact": "Earth spins to make day and night.",
+      "question": "Why do we have day and night?",
+      "options": ["Because Earth spins", "Because the Moon moves", "Because clouds move"],
+      "answer": "Because Earth spins"
+    },
+    {
+      "fact": "Plants need water and sunlight to grow.",
+      "question": "What do plants need to grow?",
+      "options": ["Candy", "Water and sunlight", "Sand only"],
+      "answer": "Water and sunlight"
+    },
+    {
+      "fact": "A triangle has three sides.",
+      "question": "How many sides does a triangle have?",
+      "options": ["3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "fact": "Gravity pulls things down to the ground.",
+      "question": "What makes things fall down?",
+      "options": ["Wind", "Gravity", "Light"],
+      "answer": "Gravity"
+    },
+    {
+      "fact": "There are 7 days in a week.",
+      "question": "How many days are in a week?",
+      "options": ["5", "7", "10"],
+      "answer": "7"
+    },
+    {
+      "fact": "Fish breathe using gills.",
+      "question": "How do fish breathe?",
+      "options": ["With lungs", "With gills", "Through skin"],
+      "answer": "With gills"
+    },
+    {
+      "fact": "The Moon moves around Earth.",
+      "question": "What orbits Earth?",
+      "options": ["The Moon", "The Sun", "Mars"],
+      "answer": "The Moon"
+    },
+    {
+      "fact": "Ice melts into water when warm.",
+      "question": "What happens when ice gets warm?",
+      "options": ["It melts", "It grows", "It freezes more"],
+      "answer": "It melts"
+    },
+    {
+      "fact": "Addition means putting numbers together.",
+      "question": "What does addition mean?",
+      "options": ["Taking away", "Putting together", "Hiding numbers"],
+      "answer": "Putting together"
+    },
+    {
+      "fact": "A square has four equal sides.",
+      "question": "How many sides does a square have?",
+      "options": ["4", "3", "5"],
+      "answer": "4"
+    },
+    {
+      "fact": "Birds have feathers.",
+      "question": "What covers a bird’s body?",
+      "options": ["Fur", "Feathers", "Scales"],
+      "answer": "Feathers"
+    },
+    {
+      "fact": "Water can be liquid, solid, or gas.",
+      "question": "What is frozen water called?",
+      "options": ["Steam", "Ice", "Rain"],
+      "answer": "Ice"
+    },
+    {
+      "fact": "The heart pumps blood.",
+      "question": "What pumps blood in your body?",
+      "options": ["Brain", "Heart", "Lungs"],
+      "answer": "Heart"
+    },
+    {
+      "fact": "We breathe in oxygen.",
+      "question": "What do we breathe in?",
+      "options": ["Water", "Oxygen", "Sand"],
+      "answer": "Oxygen"
+    },
+    {
+      "fact": "A week has 7 days.",
+      "question": "What comes after Sunday?",
+      "options": ["Monday", "Friday", "Wednesday"],
+      "answer": "Monday"
+    },
+    {
+      "fact": "Plants make their own food.",
+      "question": "Who makes their own food?",
+      "options": ["Plants", "Dogs", "Cars"],
+      "answer": "Plants"
+    },
+    {
+      "fact": "Rain comes from clouds.",
+      "question": "Where does rain come from?",
+      "options": ["Clouds", "Rivers", "Trees"],
+      "answer": "Clouds"
+    },
+    {
+      "fact": "A caterpillar turns into a butterfly.",
+      "question": "What does a caterpillar become?",
+      "options": ["A bird", "A butterfly", "A fish"],
+      "answer": "A butterfly"
+    },
+    {
+      "fact": "Even numbers can be divided by 2.",
+      "question": "Which number is even?",
+      "options": ["3", "7", "8"],
+      "answer": "8"
+    },
+    {
+      "fact": "The Earth is round.",
+      "question": "What shape is Earth?",
+      "options": ["Flat", "Round", "Square"],
+      "answer": "Round"
+    },
+    {
+      "fact": "Dogs bark.",
+      "question": "What sound does a dog make?",
+      "options": ["Meow", "Bark", "Moo"],
+      "answer": "Bark"
+    },
+    {
+      "fact": "Five fingers are on one hand.",
+      "question": "How many fingers on one hand?",
+      "options": ["3", "5", "6"],
+      "answer": "5"
+    },
+    {
+      "fact": "A year has 12 months.",
+      "question": "How many months in a year?",
+      "options": ["10", "12", "15"],
+      "answer": "12"
+    },
+    {
+      "fact": "The Sun rises in the east.",
+      "question": "Where does the Sun rise?",
+      "options": ["North", "East", "West"],
+      "answer": "East"
+    },
+    {
+      "fact": "A rectangle has four sides.",
+      "question": "How many sides does a rectangle have?",
+      "options": ["4", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "fact": "Bees make honey.",
+      "question": "Who makes honey?",
+      "options": ["Bees", "Cows", "Fish"],
+      "answer": "Bees"
+    },
+    {
+      "fact": "Cars move on roads.",
+      "question": "Where do cars drive?",
+      "options": ["Roads", "Sky", "Water"],
+      "answer": "Roads"
+    },
+    {
+      "fact": "A baby cat is called a kitten.",
+      "question": "What is a baby cat called?",
+      "options": ["Puppy", "Kitten", "Cub"],
+      "answer": "Kitten"
+    },
+    {
+      "fact": "Rainbows have seven colors.",
+      "question": "What appears after rain and sunshine?",
+      "options": ["Rainbow", "Snow", "Thunder"],
+      "answer": "Rainbow"
     }
   ],
 
   "age_7_9": [
-    {
-      "fact": "The Earth orbits the Sun once every year.",
-      "question": "How long does Earth take to orbit the Sun?",
-      "options": ["1 day", "1 year", "1 month"],
-      "answer": "1 year"
-    }
-  ],
-
+  {
+    "fact": "Earth orbits the Sun once every year.",
+    "question": "How long does Earth take to orbit the Sun?",
+    "options": ["1 day", "1 year", "1 month"],
+    "answer": "1 year"
+  },
+  {
+    "fact": "Energy in a food chain begins with plants.",
+    "question": "Where does most food chain energy start?",
+    "options": ["Animals", "Plants", "Rocks"],
+    "answer": "Plants"
+  },
+  {
+    "fact": "Water turns into vapor when heated.",
+    "question": "What is water called when it turns into gas?",
+    "options": ["Ice", "Vapor", "Mud"],
+    "answer": "Vapor"
+  },
+  {
+    "fact": "A fraction shows parts of a whole.",
+    "question": "What does 1/2 mean?",
+    "options": ["Half", "Double", "Three parts"],
+    "answer": "Half"
+  },
+  {
+    "fact": "Jupiter is the largest planet.",
+    "question": "Which planet is the largest?",
+    "options": ["Mars", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "fact": "A compass shows direction.",
+    "question": "Which tool shows north, south, east, and west?",
+    "options": ["Clock", "Compass", "Ruler"],
+    "answer": "Compass"
+  },
+  {
+    "fact": "Multiplication is repeated addition.",
+    "question": "What is 6 × 5?",
+    "options": ["11", "30", "25"],
+    "answer": "30"
+  },
+  {
+    "fact": "Tectonic plates can cause earthquakes.",
+    "question": "What can moving plates cause?",
+    "options": ["Rainbows", "Earthquakes", "Clouds"],
+    "answer": "Earthquakes"
+  },
+  {
+    "fact": "Solar energy comes from the Sun.",
+    "question": "Which is renewable energy?",
+    "options": ["Coal", "Solar power", "Oil"],
+    "answer": "Solar power"
+  },
+  {
+    "fact": "The scientific method helps test ideas.",
+    "question": "What do scientists use to test ideas?",
+    "options": ["Magic", "Scientific method", "Guessing"],
+    "answer": "Scientific method"
+  },
+  {
+    "fact": "Mars is called the Red Planet.",
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Saturn", "Neptune"],
+    "answer": "Mars"
+  },
+  {
+    "fact": "An ecosystem includes living and nonliving things.",
+    "question": "What does an ecosystem include?",
+    "options": ["Only animals", "Living and nonliving things", "Only plants"],
+    "answer": "Living and nonliving things"
+  },
+  {
+    "fact": "A kilometer equals 1,000 meters.",
+    "question": "How many meters are in a kilometer?",
+    "options": ["100", "1,000", "10,000"],
+    "answer": "1,000"
+  },
+  {
+    "fact": "Electricity flows through circuits.",
+    "question": "What does electricity travel through?",
+    "options": ["Circuits", "Clouds", "Rocks"],
+    "answer": "Circuits"
+  },
+  {
+    "fact": "Condensation forms clouds.",
+    "question": "What process forms clouds?",
+    "options": ["Evaporation", "Condensation", "Freezing"],
+    "answer": "Condensation"
+  },
+  {
+    "fact": "Light travels faster than sound.",
+    "question": "Which travels faster?",
+    "options": ["Sound", "Light", "Wind"],
+    "answer": "Light"
+  },
+  {
+    "fact": "The equator divides Earth into two halves.",
+    "question": "What divides Earth into north and south?",
+    "options": ["Equator", "Prime line", "Ocean"],
+    "answer": "Equator"
+  },
+  {
+    "fact": "Cells are the basic units of life.",
+    "question": "What is the basic unit of life?",
+    "options": ["Cells", "Organs", "Bones"],
+    "answer": "Cells"
+  },
+  {
+    "fact": "The Romans built roads and aqueducts.",
+    "question": "Which ancient people built aqueducts?",
+    "options": ["Romans", "Vikings", "Pirates"],
+    "answer": "Romans"
+  },
+  {
+    "fact": "Wind is moving air.",
+    "question": "What is wind?",
+    "options": ["Moving air", "Water vapor", "Fire"],
+    "answer": "Moving air"
+  },
+  {
+    "fact": "Producers make their own food.",
+    "question": "In a food chain, who are producers?",
+    "options": ["Plants", "Lions", "Sharks"],
+    "answer": "Plants"
+  },
+  {
+    "fact": "A right angle measures 90 degrees.",
+    "question": "How many degrees is a right angle?",
+    "options": ["45", "90", "180"],
+    "answer": "90"
+  },
+  {
+    "fact": "Recycling reduces waste.",
+    "question": "Why is recycling important?",
+    "options": ["It increases trash", "It reduces waste", "It makes smoke"],
+    "answer": "It reduces waste"
+  },
+  {
+    "fact": "The Moon reflects sunlight.",
+    "question": "Why does the Moon shine?",
+    "options": ["It makes its own light", "It reflects sunlight", "It burns"],
+    "answer": "It reflects sunlight"
+  },
+  {
+    "fact": "A polygon is a shape with many sides.",
+    "question": "What is a shape with many sides called?",
+    "options": ["Circle", "Polygon", "Dot"],
+    "answer": "Polygon"
+  },
+  {
+    "fact": "Fossils are remains of ancient life.",
+    "question": "What are fossils?",
+    "options": ["New animals", "Ancient remains", "Cloud shapes"],
+    "answer": "Ancient remains"
+  },
+  {
+    "fact": "The water cycle repeats continuously.",
+    "question": "Does the water cycle stop?",
+    "options": ["Yes", "No", "Sometimes"],
+    "answer": "No"
+  },
+  {
+    "fact": "Temperature measures how hot or cold something is.",
+    "question": "What does temperature measure?",
+    "options": ["Speed", "Hot or cold", "Weight"],
+    "answer": "Hot or cold"
+  },
+  {
+    "fact": "A habitat is where an animal lives.",
+    "question": "What is a habitat?",
+    "options": ["Animal home", "Animal food", "Animal toy"],
+    "answer": "Animal home"
+  },
+  {
+    "fact": "The printing press helped spread knowledge.",
+    "question": "What invention helped spread books?",
+    "options": ["Printing press", "Wheel", "Rocket"],
+    "answer": "Printing press"
+  }
+]
+  
   "age_10_12": [
-    {
-      "fact": "Gravity pulls objects toward Earth.",
-      "question": "What force pulls objects down?",
-      "options": ["Wind", "Gravity", "Light"],
-      "answer": "Gravity"
-    }
-  ],
+  {
+    "fact": "An object in motion stays in motion unless acted on by a force.",
+    "question": "Whose law explains motion staying the same?",
+    "options": ["Newton", "Darwin", "Galileo"],
+    "answer": "Newton"
+  },
+  {
+    "fact": "Force equals mass times acceleration.",
+    "question": "What does F = m × a calculate?",
+    "options": ["Energy", "Force", "Speed"],
+    "answer": "Force"
+  },
+  {
+    "fact": "Removing one species can disrupt ecosystem balance.",
+    "question": "What happens if one species disappears?",
+    "options": ["Nothing changes", "Balance can break", "Everything improves"],
+    "answer": "Balance can break"
+  },
+  {
+    "fact": "0.5 equals 1/2.",
+    "question": "What fraction equals 0.5?",
+    "options": ["1/2", "1/3", "1/4"],
+    "answer": "1/2"
+  },
+  {
+    "fact": "Percent means per hundred.",
+    "question": "What is 25%?",
+    "options": ["1/4", "1/3", "1/5"],
+    "answer": "1/4"
+  },
+  {
+    "fact": "Solar panels convert sunlight into electricity.",
+    "question": "What do solar panels produce?",
+    "options": ["Water", "Electricity", "Heat only"],
+    "answer": "Electricity"
+  },
+  {
+    "fact": "Algorithms are step-by-step instructions.",
+    "question": "What is an algorithm?",
+    "options": ["A bug", "Step-by-step instructions", "A computer screen"],
+    "answer": "Step-by-step instructions"
+  },
+  {
+    "fact": "Mesopotamia is called the cradle of civilization.",
+    "question": "Which civilization is very ancient?",
+    "options": ["Mesopotamia", "Internet Age", "Space Age"],
+    "answer": "Mesopotamia"
+  },
+  {
+    "fact": "Energy cannot be created or destroyed.",
+    "question": "What happens to energy?",
+    "options": ["It disappears", "It changes form", "It stops existing"],
+    "answer": "It changes form"
+  },
+  {
+    "fact": "A hypothesis is a testable prediction.",
+    "question": "What is a hypothesis?",
+    "options": ["A guess you test", "A final answer", "A mistake"],
+    "answer": "A guess you test"
+  },
+  {
+    "fact": "Atoms are made of protons, neutrons, and electrons.",
+    "question": "What are atoms made of?",
+    "options": ["Cells", "Protons, neutrons, electrons", "Light only"],
+    "answer": "Protons, neutrons, electrons"
+  },
+  {
+    "fact": "DNA carries genetic information.",
+    "question": "What carries genetic information?",
+    "options": ["DNA", "Water", "Air"],
+    "answer": "DNA"
+  },
+  {
+    "fact": "Prime numbers have exactly two factors.",
+    "question": "Which number is prime?",
+    "options": ["9", "11", "15"],
+    "answer": "11"
+  },
+  {
+    "fact": "Latitude lines run east to west.",
+    "question": "Which lines run east to west?",
+    "options": ["Latitude", "Longitude", "Rivers"],
+    "answer": "Latitude"
+  },
+  {
+    "fact": "Supply and demand affect prices.",
+    "question": "What influences prices in economics?",
+    "options": ["Supply and demand", "Luck", "Weather only"],
+    "answer": "Supply and demand"
+  },
+  {
+    "fact": "Black holes have very strong gravity.",
+    "question": "What is special about black holes?",
+    "options": ["Weak gravity", "Strong gravity", "No gravity"],
+    "answer": "Strong gravity"
+  },
+  {
+    "fact": "The Industrial Revolution changed production methods.",
+    "question": "What did the Industrial Revolution change?",
+    "options": ["How goods were made", "Weather", "Planets"],
+    "answer": "How goods were made"
+  },
+  {
+    "fact": "Chemical reactions create new substances.",
+    "question": "What happens in a chemical reaction?",
+    "options": ["Nothing changes", "New substances form", "Energy disappears"],
+    "answer": "New substances form"
+  },
+  {
+    "fact": "Mean is the average of numbers.",
+    "question": "What is the mean?",
+    "options": ["Average", "Largest number", "Smallest number"],
+    "answer": "Average"
+  },
+  {
+    "fact": "Bridges use tension and compression forces.",
+    "question": "What forces help bridges stand?",
+    "options": ["Tension and compression", "Heat only", "Wind only"],
+    "answer": "Tension and compression"
+  },
+  {
+    "fact": "Democracy allows citizens to vote.",
+    "question": "What is a democracy?",
+    "options": ["Rule by one person", "People vote", "No laws"],
+    "answer": "People vote"
+  },
+  {
+    "fact": "Renewable energy sources do not run out quickly.",
+    "question": "Which is renewable?",
+    "options": ["Coal", "Wind energy", "Oil"],
+    "answer": "Wind energy"
+  },
+  {
+    "fact": "Tectonic plate boundaries cause volcanoes.",
+    "question": "What can plate boundaries cause?",
+    "options": ["Volcanoes", "Rainbows", "Shadows"],
+    "answer": "Volcanoes"
+  },
+  {
+    "fact": "The internet connects computers worldwide.",
+    "question": "What does the internet do?",
+    "options": ["Connect computers", "Make food", "Change weather"],
+    "answer": "Connect computers"
+  },
+  {
+    "fact": "The Renaissance was a cultural revival in Europe.",
+    "question": "Where did the Renaissance begin?",
+    "options": ["Europe", "Australia", "Antarctica"],
+    "answer": "Europe"
+  },
+  {
+    "fact": "Gravity decreases with distance.",
+    "question": "Does gravity get weaker farther away?",
+    "options": ["Yes", "No", "Never changes"],
+    "answer": "Yes"
+  },
+  {
+    "fact": "Statistics helps analyze data.",
+    "question": "What does statistics help with?",
+    "options": ["Data analysis", "Cooking", "Flying"],
+    "answer": "Data analysis"
+  },
+  {
+    "fact": "Climate change affects global weather patterns.",
+    "question": "What does climate change affect?",
+    "options": ["Weather patterns", "Only oceans", "Nothing"],
+    "answer": "Weather patterns"
+  },
+  {
+    "fact": "Coding languages allow humans to program computers.",
+    "question": "Why do we use coding languages?",
+    "options": ["To program computers", "To paint", "To swim"],
+    "answer": "To program computers"
+  },
+  {
+    "fact": "Ecosystems depend on balance between organisms.",
+    "question": "Why is ecosystem balance important?",
+    "options": ["For survival", "For decoration", "For noise"],
+    "answer": "For survival"
+  }
+]
+
 
   "wheel_rewards": [
     "+5 Points ⭐",
     "+10 Points 💎",
     "Super Star Badge 🏆",
-    "Bonus Fact 🎉"
+    "Bonus Fact 🎉",
+    "Double Points 🔥",
+    "Mystery Reward 🎁"
   ]
 }
