@@ -181,374 +181,310 @@
       "answer": "Rainbow"
     }
   ],
-
   "age_7_9": [
-  {
-    "fact": "Earth orbits the Sun once every year.",
-    "question": "How long does Earth take to orbit the Sun?",
-    "options": ["1 day", "1 year", "1 month"],
-    "answer": "1 year"
-  },
-  {
-    "fact": "Energy in a food chain begins with plants.",
-    "question": "Where does most food chain energy start?",
-    "options": ["Animals", "Plants", "Rocks"],
-    "answer": "Plants"
-  },
-  {
-    "fact": "Water turns into vapor when heated.",
-    "question": "What is water called when it turns into gas?",
-    "options": ["Ice", "Vapor", "Mud"],
-    "answer": "Vapor"
-  },
-  {
-    "fact": "A fraction shows parts of a whole.",
-    "question": "What does 1/2 mean?",
-    "options": ["Half", "Double", "Three parts"],
-    "answer": "Half"
-  },
-  {
-    "fact": "Jupiter is the largest planet.",
-    "question": "Which planet is the largest?",
-    "options": ["Mars", "Jupiter", "Venus"],
-    "answer": "Jupiter"
-  },
-  {
-    "fact": "A compass shows direction.",
-    "question": "Which tool shows north, south, east, and west?",
-    "options": ["Clock", "Compass", "Ruler"],
-    "answer": "Compass"
-  },
-  {
-    "fact": "Multiplication is repeated addition.",
-    "question": "What is 6 × 5?",
-    "options": ["11", "30", "25"],
-    "answer": "30"
-  },
-  {
-    "fact": "Tectonic plates can cause earthquakes.",
-    "question": "What can moving plates cause?",
-    "options": ["Rainbows", "Earthquakes", "Clouds"],
-    "answer": "Earthquakes"
-  },
-  {
-    "fact": "Solar energy comes from the Sun.",
-    "question": "Which is renewable energy?",
-    "options": ["Coal", "Solar power", "Oil"],
-    "answer": "Solar power"
-  },
-  {
-    "fact": "The scientific method helps test ideas.",
-    "question": "What do scientists use to test ideas?",
-    "options": ["Magic", "Scientific method", "Guessing"],
-    "answer": "Scientific method"
-  },
-  {
-    "fact": "Mars is called the Red Planet.",
-    "question": "Which planet is known as the Red Planet?",
-    "options": ["Mars", "Saturn", "Neptune"],
-    "answer": "Mars"
-  },
-  {
-    "fact": "An ecosystem includes living and nonliving things.",
-    "question": "What does an ecosystem include?",
-    "options": ["Only animals", "Living and nonliving things", "Only plants"],
-    "answer": "Living and nonliving things"
-  },
-  {
-    "fact": "A kilometer equals 1,000 meters.",
-    "question": "How many meters are in a kilometer?",
-    "options": ["100", "1,000", "10,000"],
-    "answer": "1,000"
-  },
-  {
-    "fact": "Electricity flows through circuits.",
-    "question": "What does electricity travel through?",
-    "options": ["Circuits", "Clouds", "Rocks"],
-    "answer": "Circuits"
-  },
-  {
-    "fact": "Condensation forms clouds.",
-    "question": "What process forms clouds?",
-    "options": ["Evaporation", "Condensation", "Freezing"],
-    "answer": "Condensation"
-  },
-  {
-    "fact": "Light travels faster than sound.",
-    "question": "Which travels faster?",
-    "options": ["Sound", "Light", "Wind"],
-    "answer": "Light"
-  },
-  {
-    "fact": "The equator divides Earth into two halves.",
-    "question": "What divides Earth into north and south?",
-    "options": ["Equator", "Prime line", "Ocean"],
-    "answer": "Equator"
-  },
-  {
-    "fact": "Cells are the basic units of life.",
-    "question": "What is the basic unit of life?",
-    "options": ["Cells", "Organs", "Bones"],
-    "answer": "Cells"
-  },
-  {
-    "fact": "The Romans built roads and aqueducts.",
-    "question": "Which ancient people built aqueducts?",
-    "options": ["Romans", "Vikings", "Pirates"],
-    "answer": "Romans"
-  },
-  {
-    "fact": "Wind is moving air.",
-    "question": "What is wind?",
-    "options": ["Moving air", "Water vapor", "Fire"],
-    "answer": "Moving air"
-  },
-  {
-    "fact": "Producers make their own food.",
-    "question": "In a food chain, who are producers?",
-    "options": ["Plants", "Lions", "Sharks"],
-    "answer": "Plants"
-  },
-  {
-    "fact": "A right angle measures 90 degrees.",
-    "question": "How many degrees is a right angle?",
-    "options": ["45", "90", "180"],
-    "answer": "90"
-  },
-  {
-    "fact": "Recycling reduces waste.",
-    "question": "Why is recycling important?",
-    "options": ["It increases trash", "It reduces waste", "It makes smoke"],
-    "answer": "It reduces waste"
-  },
-  {
-    "fact": "The Moon reflects sunlight.",
-    "question": "Why does the Moon shine?",
-    "options": ["It makes its own light", "It reflects sunlight", "It burns"],
-    "answer": "It reflects sunlight"
-  },
-  {
-    "fact": "A polygon is a shape with many sides.",
-    "question": "What is a shape with many sides called?",
-    "options": ["Circle", "Polygon", "Dot"],
-    "answer": "Polygon"
-  },
-  {
-    "fact": "Fossils are remains of ancient life.",
-    "question": "What are fossils?",
-    "options": ["New animals", "Ancient remains", "Cloud shapes"],
-    "answer": "Ancient remains"
-  },
-  {
-    "fact": "The water cycle repeats continuously.",
-    "question": "Does the water cycle stop?",
-    "options": ["Yes", "No", "Sometimes"],
-    "answer": "No"
-  },
-  {
-    "fact": "Temperature measures how hot or cold something is.",
-    "question": "What does temperature measure?",
-    "options": ["Speed", "Hot or cold", "Weight"],
-    "answer": "Hot or cold"
-  },
-  {
-    "fact": "A habitat is where an animal lives.",
-    "question": "What is a habitat?",
-    "options": ["Animal home", "Animal food", "Animal toy"],
-    "answer": "Animal home"
-  },
-  {
-    "fact": "The printing press helped spread knowledge.",
-    "question": "What invention helped spread books?",
-    "options": ["Printing press", "Wheel", "Rocket"],
-    "answer": "Printing press"
-  }
-],
-  
+    {
+      "fact": "Earth orbits the Sun once every year.",
+      "question": "How long does Earth take to orbit the Sun?",
+      "options": ["1 day", "1 year", "1 month"],
+      "answer": "1 year"
+    },
+    {
+      "fact": "Energy in a food chain begins with plants.",
+      "question": "Where does most food chain energy start?",
+      "options": ["Animals", "Plants", "Rocks"],
+      "answer": "Plants"
+    },
+    {
+      "fact": "Water turns into vapor when heated.",
+      "question": "What is water called when it turns into gas?",
+      "options": ["Ice", "Vapor", "Mud"],
+      "answer": "Vapor"
+    },
+    {
+      "fact": "A fraction shows parts of a whole.",
+      "question": "What does 1/2 mean?",
+      "options": ["Half", "Double", "Three parts"],
+      "answer": "Half"
+    },
+    {
+      "fact": "Jupiter is the largest planet.",
+      "question": "Which planet is the largest?",
+      "options": ["Mars", "Jupiter", "Venus"],
+      "answer": "Jupiter"
+    },
+    {
+      "fact": "A compass shows direction.",
+      "question": "Which tool shows north, south, east, and west?",
+      "options": ["Clock", "Compass", "Ruler"],
+      "answer": "Compass"
+    },
+    {
+      "fact": "Multiplication is repeated addition.",
+      "question": "What is 6 × 5?",
+      "options": ["11", "30", "25"],
+      "answer": "30"
+    },
+    {
+      "fact": "Tectonic plates can cause earthquakes.",
+      "question": "What can moving plates cause?",
+      "options": ["Rainbows", "Earthquakes", "Clouds"],
+      "answer": "Earthquakes"
+    },
+    {
+      "fact": "Solar energy comes from the Sun.",
+      "question": "Which is renewable energy?",
+      "options": ["Coal", "Solar power", "Oil"],
+      "answer": "Solar power"
+    },
+    {
+      "fact": "The scientific method helps test ideas.",
+      "question": "What do scientists use to test ideas?",
+      "options": ["Magic", "Scientific method", "Guessing"],
+      "answer": "Scientific method"
+    },
+    {
+      "fact": "Mars is called the Red Planet.",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Saturn", "Neptune"],
+      "answer": "Mars"
+    },
+    {
+      "fact": "An ecosystem includes living and nonliving things.",
+      "question": "What does an ecosystem include?",
+      "options": ["Only animals", "Living and nonliving things", "Only plants"],
+      "answer": "Living and nonliving things"
+    },
+    {
+      "fact": "A kilometer equals 1,000 meters.",
+      "question": "How many meters are in a kilometer?",
+      "options": ["100", "1,000", "10,000"],
+      "answer": "1,000"
+    },
+    {
+      "fact": "Electricity flows through circuits.",
+      "question": "What does electricity travel through?",
+      "options": ["Circuits", "Clouds", "Rocks"],
+      "answer": "Circuits"
+    },
+    {
+      "fact": "Condensation forms clouds.",
+      "question": "What process forms clouds?",
+      "options": ["Evaporation", "Condensation", "Freezing"],
+      "answer": "Condensation"
+    },
+    {
+      "fact": "Light travels faster than sound.",
+      "question": "Which travels faster?",
+      "options": ["Sound", "Light", "Wind"],
+      "answer": "Light"
+    },
+    {
+      "fact": "The equator divides Earth into two halves.",
+      "question": "What divides Earth into north and south?",
+      "options": ["Equator", "Prime line", "Ocean"],
+      "answer": "Equator"
+    },
+    {
+      "fact": "Cells are the basic units of life.",
+      "question": "What is the basic unit of life?",
+      "options": ["Cells", "Organs", "Bones"],
+      "answer": "Cells"
+    },
+    {
+      "fact": "The Romans built roads and aqueducts.",
+      "question": "Which ancient people built aqueducts?",
+      "options": ["Romans", "Vikings", "Pirates"],
+      "answer": "Romans"
+    },
+    {
+      "fact": "Wind is moving air.",
+      "question": "What is wind?",
+      "options": ["Moving air", "Water vapor", "Fire"],
+      "answer": "Moving air"
+    },
+    {
+      "fact": "Producers make their own food.",
+      "question": "In a food chain, who are producers?",
+      "options": ["Plants", "Lions", "Sharks"],
+      "answer": "Plants"
+    },
+    {
+      "fact": "A right angle measures 90 degrees.",
+      "question": "How many degrees is a right angle?",
+      "options": ["45", "90", "180"],
+      "answer": "90"
+    },
+    {
+      "fact": "Recycling reduces waste.",
+      "question": "Why is recycling important?",
+      "options": ["It increases trash", "It reduces waste", "It makes smoke"],
+      "answer": "It reduces waste"
+    },
+    {
+      "fact": "The Moon reflects sunlight.",
+      "question": "Why does the Moon shine?",
+      "options": ["It makes its own light", "It reflects sunlight", "It burns"],
+      "answer": "It reflects sunlight"
+    },
+    {
+      "fact": "A polygon is a shape with many sides.",
+      "question": "What is a shape with many sides called?",
+      "options": ["Circle", "Polygon", "Dot"],
+      "answer": "Polygon"
+    },
+    {
+      "fact": "Fossils are remains of ancient life.",
+      "question": "What are fossils?",
+      "options": ["New animals", "Ancient remains", "Cloud shapes"],
+      "answer": "Ancient remains"
+    },
+    {
+      "fact": "The water cycle repeats continuously.",
+      "question": "Does the water cycle stop?",
+      "options": ["Yes", "No", "Sometimes"],
+      "answer": "No"
+    },
+    {
+      "fact": "Temperature measures how hot or cold something is.",
+      "question": "What does temperature measure?",
+      "options": ["Speed", "Hot or cold", "Weight"],
+      "answer": "Hot or cold"
+    },
+    {
+      "fact": "A habitat is where an animal lives.",
+      "question": "What is a habitat?",
+      "options": ["Animal home", "Animal food", "Animal toy"],
+      "answer": "Animal home"
+    },
+    {
+      "fact": "The printing press helped spread knowledge.",
+      "question": "What invention helped spread books?",
+      "options": ["Printing press", "Wheel", "Rocket"],
+      "answer": "Printing press"
+    }
+  ],
   "age_10_12": [
-  {
-    "fact": "An object in motion stays in motion unless acted on by a force.",
-    "question": "Whose law explains motion staying the same?",
-    "options": ["Newton", "Darwin", "Galileo"],
-    "answer": "Newton"
-  },
-  {
-    "fact": "Force equals mass times acceleration.",
-    "question": "What does F = m × a calculate?",
-    "options": ["Energy", "Force", "Speed"],
-    "answer": "Force"
-  },
-  {
-    "fact": "Removing one species can disrupt ecosystem balance.",
-    "question": "What happens if one species disappears?",
-    "options": ["Nothing changes", "Balance can break", "Everything improves"],
-    "answer": "Balance can break"
-  },
-  {
-    "fact": "0.5 equals 1/2.",
-    "question": "What fraction equals 0.5?",
-    "options": ["1/2", "1/3", "1/4"],
-    "answer": "1/2"
-  },
-  {
-    "fact": "Percent means per hundred.",
-    "question": "What is 25%?",
-    "options": ["1/4", "1/3", "1/5"],
-    "answer": "1/4"
-  },
-  {
-    "fact": "Solar panels convert sunlight into electricity.",
-    "question": "What do solar panels produce?",
-    "options": ["Water", "Electricity", "Heat only"],
-    "answer": "Electricity"
-  },
-  {
-    "fact": "Algorithms are step-by-step instructions.",
-    "question": "What is an algorithm?",
-    "options": ["A bug", "Step-by-step instructions", "A computer screen"],
-    "answer": "Step-by-step instructions"
-  },
-  {
-    "fact": "Mesopotamia is called the cradle of civilization.",
-    "question": "Which civilization is very ancient?",
-    "options": ["Mesopotamia", "Internet Age", "Space Age"],
-    "answer": "Mesopotamia"
-  },
-  {
-    "fact": "Energy cannot be created or destroyed.",
-    "question": "What happens to energy?",
-    "options": ["It disappears", "It changes form", "It stops existing"],
-    "answer": "It changes form"
-  },
-  {
-    "fact": "A hypothesis is a testable prediction.",
-    "question": "What is a hypothesis?",
-    "options": ["A guess you test", "A final answer", "A mistake"],
-    "answer": "A guess you test"
-  },
-  {
-    "fact": "Atoms are made of protons, neutrons, and electrons.",
-    "question": "What are atoms made of?",
-    "options": ["Cells", "Protons, neutrons, electrons", "Light only"],
-    "answer": "Protons, neutrons, electrons"
-  },
-  {
-    "fact": "DNA carries genetic information.",
-    "question": "What carries genetic information?",
-    "options": ["DNA", "Water", "Air"],
-    "answer": "DNA"
-  },
-  {
-    "fact": "Prime numbers have exactly two factors.",
-    "question": "Which number is prime?",
-    "options": ["9", "11", "15"],
-    "answer": "11"
-  },
-  {
-    "fact": "Latitude lines run east to west.",
-    "question": "Which lines run east to west?",
-    "options": ["Latitude", "Longitude", "Rivers"],
-    "answer": "Latitude"
-  },
-  {
-    "fact": "Supply and demand affect prices.",
-    "question": "What influences prices in economics?",
-    "options": ["Supply and demand", "Luck", "Weather only"],
-    "answer": "Supply and demand"
-  },
-  {
-    "fact": "Black holes have very strong gravity.",
-    "question": "What is special about black holes?",
-    "options": ["Weak gravity", "Strong gravity", "No gravity"],
-    "answer": "Strong gravity"
-  },
-  {
-    "fact": "The Industrial Revolution changed production methods.",
-    "question": "What did the Industrial Revolution change?",
-    "options": ["How goods were made", "Weather", "Planets"],
-    "answer": "How goods were made"
-  },
-  {
-    "fact": "Chemical reactions create new substances.",
-    "question": "What happens in a chemical reaction?",
-    "options": ["Nothing changes", "New substances form", "Energy disappears"],
-    "answer": "New substances form"
-  },
-  {
-    "fact": "Mean is the average of numbers.",
-    "question": "What is the mean?",
-    "options": ["Average", "Largest number", "Smallest number"],
-    "answer": "Average"
-  },
-  {
-    "fact": "Bridges use tension and compression forces.",
-    "question": "What forces help bridges stand?",
-    "options": ["Tension and compression", "Heat only", "Wind only"],
-    "answer": "Tension and compression"
-  },
-  {
-    "fact": "Democracy allows citizens to vote.",
-    "question": "What is a democracy?",
-    "options": ["Rule by one person", "People vote", "No laws"],
-    "answer": "People vote"
-  },
-  {
-    "fact": "Renewable energy sources do not run out quickly.",
-    "question": "Which is renewable?",
-    "options": ["Coal", "Wind energy", "Oil"],
-    "answer": "Wind energy"
-  },
-  {
-    "fact": "Tectonic plate boundaries cause volcanoes.",
-    "question": "What can plate boundaries cause?",
-    "options": ["Volcanoes", "Rainbows", "Shadows"],
-    "answer": "Volcanoes"
-  },
-  {
-    "fact": "The internet connects computers worldwide.",
-    "question": "What does the internet do?",
-    "options": ["Connect computers", "Make food", "Change weather"],
-    "answer": "Connect computers"
-  },
-  {
-    "fact": "The Renaissance was a cultural revival in Europe.",
-    "question": "Where did the Renaissance begin?",
-    "options": ["Europe", "Australia", "Antarctica"],
-    "answer": "Europe"
-  },
-  {
-    "fact": "Gravity decreases with distance.",
-    "question": "Does gravity get weaker farther away?",
-    "options": ["Yes", "No", "Never changes"],
-    "answer": "Yes"
-  },
-  {
-    "fact": "Statistics helps analyze data.",
-    "question": "What does statistics help with?",
-    "options": ["Data analysis", "Cooking", "Flying"],
-    "answer": "Data analysis"
-  },
-  {
-    "fact": "Climate change affects global weather patterns.",
-    "question": "What does climate change affect?",
-    "options": ["Weather patterns", "Only oceans", "Nothing"],
-    "answer": "Weather patterns"
-  },
-  {
-    "fact": "Coding languages allow humans to program computers.",
-    "question": "Why do we use coding languages?",
-    "options": ["To program computers", "To paint", "To swim"],
-    "answer": "To program computers"
-  },
-  {
-    "fact": "Ecosystems depend on balance between organisms.",
-    "question": "Why is ecosystem balance important?",
-    "options": ["For survival", "For decoration", "For noise"],
-    "answer": "For survival"
-  }
-],
-
-
+    {
+      "fact": "An object in motion stays in motion unless acted on by a force.",
+      "question": "Whose law explains motion staying the same?",
+      "options": ["Newton", "Darwin", "Galileo"],
+      "answer": "Newton"
+    },
+    {
+      "fact": "Force equals mass times acceleration.",
+      "question": "What does F = m × a calculate?",
+      "options": ["Energy", "Force", "Speed"],
+      "answer": "Force"
+    },
+    {
+      "fact": "Removing one species can disrupt ecosystem balance.",
+      "question": "What happens if one species disappears?",
+      "options": ["Nothing changes", "Balance can break", "Everything improves"],
+      "answer": "Balance can break"
+    },
+    {
+      "fact": "0.5 equals 1/2.",
+      "question": "What fraction equals 0.5?",
+      "options": ["1/2", "1/3", "1/4"],
+      "answer": "1/2"
+    },
+    {
+      "fact": "Percent means per hundred.",
+      "question": "What is 25%?",
+      "options": ["1/4", "1/3", "1/5"],
+      "answer": "1/4"
+    },
+    {
+      "fact": "Solar panels convert sunlight into electricity.",
+      "question": "What do solar panels produce?",
+      "options": ["Water", "Electricity", "Heat only"],
+      "answer": "Electricity"
+    },
+    {
+      "fact": "Algorithms are step-by-step instructions.",
+      "question": "What is an algorithm?",
+      "options": ["A bug", "Step-by-step instructions", "A computer screen"],
+      "answer": "Step-by-step instructions"
+    },
+    {
+      "fact": "Mesopotamia is called the cradle of civilization.",
+      "question": "Which civilization is very ancient?",
+      "options": ["Mesopotamia", "Internet Age", "Space Age"],
+      "answer": "Mesopotamia"
+    },
+    {
+      "fact": "Energy cannot be created or destroyed.",
+      "question": "What happens to energy?",
+      "options": ["It disappears", "It changes form", "It stops existing"],
+      "answer": "It changes form"
+    },
+    {
+      "fact": "A hypothesis is a testable prediction.",
+      "question": "What is a hypothesis?",
+      "options": ["A guess you test", "A final answer", "A mistake"],
+      "answer": "A guess you test"
+    },
+    {
+      "fact": "Atoms are made of protons, neutrons, and electrons.",
+      "question": "What are atoms made of?",
+      "options": ["Cells", "Protons, neutrons, electrons", "Light only"],
+      "answer": "Protons, neutrons, electrons"
+    },
+    {
+      "fact": "DNA carries genetic information.",
+      "question": "What carries genetic information?",
+      "options": ["DNA", "Water", "Air"],
+      "answer": "DNA"
+    },
+    {
+      "fact": "Prime numbers have exactly two factors.",
+      "question": "Which number is prime?",
+      "options": ["9", "11", "15"],
+      "answer": "11"
+    },
+    {
+      "fact": "Latitude lines run east to west.",
+      "question": "Which lines run east to west?",
+      "options": ["Latitude", "Longitude", "Rivers"],
+      "answer": "Latitude"
+    },
+    {
+      "fact": "Supply and demand affect prices.",
+      "question": "What influences prices in economics?",
+      "options": ["Supply and demand", "Luck", "Weather only"],
+      "answer": "Supply and demand"
+    },
+    {
+      "fact": "Black holes have very strong gravity.",
+      "question": "What is special about black holes?",
+      "options": ["Weak gravity", "Strong gravity", "No gravity"],
+      "answer": "Strong gravity"
+    },
+    {
+      "fact": "The Industrial Revolution changed production methods.",
+      "question": "What did the Industrial Revolution change?",
+      "options": ["How goods were made", "Weather", "Planets"],
+      "answer": "How goods were made"
+    },
+    {
+      "fact": "Chemical reactions create new substances.",
+      "question": "What happens in a chemical reaction?",
+      "options": ["Nothing changes", "New substances form", "Energy disappears"],
+      "answer": "New substances form"
+    },
+    {
+      "fact": "Mean is the average of numbers.",
+      "question": "What is the mean?",
+      "options": ["Average", "Largest number", "Difference"],
+      "answer": "Average"
+    },
+    {
+      "fact": "The mitochondria is the powerhouse of the cell.",
+      "question": "Which part produces energy in a cell?",
+      "options": ["Mitochondria", "Nucleus", "Ribosome"],
+      "answer": "Mitochondria"
+    }
+  ],
   "wheel_rewards": [
     "+5 Points ⭐",
     "+10 Points 💎",
